@@ -1,0 +1,10 @@
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\bin\Debug\TicTacTeo.exe.config
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\bin\Debug\TicTacTeo.exe
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\bin\Debug\TicTacTeo.pdb
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.csproj.AssemblyReference.cache
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.Form1.resources
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.Properties.Resources.resources
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.exe
+C:\Users\Алина\source\repos\TicTacTeo\TicTacTeo\obj\Debug\TicTacTeo.pdb
